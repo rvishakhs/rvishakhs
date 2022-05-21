@@ -1,4 +1,4 @@
-[![MasterHead] align="center"(https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://rishavchanda.io)
+[![MasterHead]([https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Visakh</h1>
 <h3 align="center">A passionate Web developer from Kerala</h3>
