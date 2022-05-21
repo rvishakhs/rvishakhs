@@ -1,7 +1,9 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://rishavchanda.io)
+[![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmaGtlrWxrbQ.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Visakh</h1>
 <h3 align="center">A passionate Web developer from Kerala</h3>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvishakhs&label=Profile%20views&color=0e75b6&style=flat" alt="rvishakhs" /> </p>
 
